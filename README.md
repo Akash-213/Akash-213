@@ -37,18 +37,13 @@ View My Portfolio
 <code><a href="https:#" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a>
 </code>
 
-
-
 <code>
 <a href="https://flutter.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a>
 </code>
 
 
-
 <code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a>
 </code>
-
-
 
 <code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a>
 </code>
@@ -59,8 +54,6 @@ View My Portfolio
 <code><a href="https://www.firebase.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a>
 </code>
 
-
-
 <code><a href="https://www.heroku.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></a>
 </code>
 
@@ -69,8 +62,6 @@ View My Portfolio
 
 <code><a href="https://play.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg"></a>
 </code>
-
-
 
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 
@@ -84,7 +75,7 @@ View My Portfolio
 
 <a href="https://github.com/Akash-213">
 
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=master30112001&count_private=true&show_icons=true&theme=gotham" alt="master30112001" />
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Akash-213&count_private=true&show_icons=true&theme=gotham" alt="Akash-213" />
 
 </a>
 
