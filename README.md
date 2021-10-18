@@ -26,7 +26,6 @@ View My Portfolio
 <a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a>
 </code>
 
-<br/>
 
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a>
 </code>
@@ -38,18 +37,18 @@ View My Portfolio
 <code><a href="https:#" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a>
 </code>
 
-<br/>
+
 
 <code>
 <a href="https://flutter.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a>
 </code>
 
-<br/>
+
 
 <code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a>
 </code>
 
-<br/>
+
 
 <code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a>
 </code>
@@ -60,7 +59,7 @@ View My Portfolio
 <code><a href="https://www.firebase.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a>
 </code>
 
-<br/>
+
 
 <code><a href="https://www.heroku.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></a>
 </code>
@@ -71,7 +70,7 @@ View My Portfolio
 <code><a href="https://play.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg"></a>
 </code>
 
-<br/>
+
 
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 
@@ -79,8 +78,9 @@ View My Portfolio
 
 <code><a href="https://www.postman.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></a></code>
 
-<br/>
-<br/>
+
+</br>
+</br>
 
 <a href="https://github.com/Akash-213">
 
